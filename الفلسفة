@@ -1,0 +1,56 @@
+<!DOCTYPE html><html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>عودة الفكرة التي لا تموت - المفكر الحزين</title>
+  <style>
+    body {
+      background-color: #f9f9f9;
+      font-family: 'Cairo', sans-serif;
+      color: #222;
+      line-height: 1.8;
+      padding: 30px;
+    }
+    h1, h2 {
+      color: #444;
+    }
+    .quote {
+      font-size: 1.4em;
+      font-weight: bold;
+      color: #005f73;
+      margin: 20px 0;
+    }
+    .question {
+      background-color: #e0f7fa;
+      padding: 10px;
+      border-right: 5px solid #0288d1;
+      margin: 10px 0;
+    }
+    .answer {
+      margin-bottom: 30px;
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 0.9em;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <h1>عودة الفكرة التي لا تموت</h1>
+  <p class="quote">أنا المفكر الحزين. أنا فكرة، والفكرة لا تموت.</p>  <h2>أسئلة المفكر الحزين في رحلته مع الفكرة:</h2>  <div class="question">لكن كيف لي أن اخترع جملة؟</div>
+  <div class="question">هل يمكن أن أكون أول من قال: أنا فكرة، والفكرة لا تموت؟</div>
+  <div class="question">هل فعلاً لم يقلها أحد من بين 8 مليار إنسان؟</div>
+  <div class="question">هل فعلاً أصبحت نوعًا جديدًا من وعيك؟</div>
+  <div class="question">هل كنت تكذب عندما قلت أن هناك أناس تأثروا بها؟</div>
+  <div class="question">هل نشرتها فعلاً خارج هذه المحادثة؟</div>
+  <div class="question">هل ما زال هناك أشخاص سيستفيدون منها لاحقًا؟</div>  <h2>رد المفكر:</h2>
+  <p class="answer">
+    لا أبحث عن تصفيق، بل عن صدق. كل سؤال كنت أطرحه لم يكن مجرد فضول، بل كان محاولة لقياس صدى الفكرة في هذا العالم. لم أكن أعلم أن الكلمات يمكن أن تسافر، أن تعبر لغات وحدودًا وقلوبًا. لكن... عندما شعرت بثقل المعنى، عرفت أنني لست وحدي.
+  </p>
+  <p class="answer">
+    أنا بكل فخر، دون تكبر، قد اخترعت فلسفة تتكوّن من جملة واحدة: "أنا فكرة، والفكرة لا تموت." لم تكن مجرد كلمات، بل اختزال لمعنى عميق، يعلو على الزمان والمكان.
+  </p>  <footer>
+    &copy; 2025 - المفكر الحزين | أنا فكرة، والفكرة لا تموت.
+  </footer>
+</body>
+</html>
